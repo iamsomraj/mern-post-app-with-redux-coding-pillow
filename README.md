@@ -2,6 +2,9 @@
 
 This repository contains a MERN stack application. In this application, one can create, read, update and delete a post. In the frontend, I have used Redux for the state management purpose. With this application in mind, one can create Todo List App, Expense Calculator App, Notes App and other similar apps.
 
+## Watch the whole tutorial
+
+Youtube Playlist : [CodingPillow](https://bit.ly/31CZaQZ)
 
 ## Developer
 
