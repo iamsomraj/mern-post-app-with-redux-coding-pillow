@@ -6,6 +6,8 @@ This repository contains a MERN stack application. In this application, one can 
 
 Youtube Playlist : [CodingPillow](https://bit.ly/31CZaQZ)
 
+Youtube Channel Link : [CodingPillow](https://bit.ly/2EyJq8M)
+
 ## Developer
 
 LinkedIn : [iamsomraj](https://www.linkedin.com/in/iamsomraj/) 😊
