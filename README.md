@@ -4,7 +4,7 @@ This repository contains a MERN stack application. In this application, one can 
 
 ## Watch The Whole Tutorial
 
-Youtube Playlist : [Coding Pillow](https://bit.ly/31CZaQZ)
+Youtube Playlist : [MERN Stack Tutorial](https://bit.ly/31CZaQZ)
 
 Youtube Channel Link : [Coding Pillow](https://bit.ly/2EyJq8M)
 
