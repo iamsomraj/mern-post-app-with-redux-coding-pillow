@@ -1,12 +1,12 @@
-# mern post app with redux coding pillow
+# MERN Post Application With Redux Coding Pillow
 
 This repository contains a MERN stack application. In this application, one can create, read, update and delete a post. In the frontend, I have used Redux for the state management purpose. With this application in mind, one can create Todo List App, Expense Calculator App, Notes App and other similar apps.
 
-## Watch the whole tutorial
+## Watch The Whole Tutorial
 
-Youtube Playlist : [CodingPillow](https://bit.ly/31CZaQZ)
+Youtube Playlist : [Coding Pillow](https://bit.ly/31CZaQZ)
 
-Youtube Channel Link : [CodingPillow](https://bit.ly/2EyJq8M)
+Youtube Channel Link : [Coding Pillow](https://bit.ly/2EyJq8M)
 
 ## Developer
 
